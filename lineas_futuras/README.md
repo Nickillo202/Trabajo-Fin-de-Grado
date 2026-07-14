@@ -1,3 +1,3 @@
-# Detección de bordes
+# Estimador de la posición del cuello uterino
 
-Método de corrección semi-automática para la detección de bordes basado en el gradiente de intensidad de la imagen, calculado con una máscara laplaciana.
+Método de estimación automática de la localización del orificio interno del cuello uterino en segmentaciones volumétricas de IRM fetal a partir del punto de de la segmentación con distancia máxima al centroide.
